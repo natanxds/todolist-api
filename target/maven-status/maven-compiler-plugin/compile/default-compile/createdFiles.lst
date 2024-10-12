@@ -1,0 +1,7 @@
+com\natanxds\todo\todolist\model\Task.class
+com\natanxds\todo\todolist\TodolistApplication.class
+com\natanxds\todo\todolist\dto\TaskRequestDTO.class
+com\natanxds\todo\todolist\service\TaskService.class
+com\natanxds\todo\todolist\repository\TaskRepository.class
+com\natanxds\todo\todolist\dto\TaskResponseDTO.class
+com\natanxds\todo\todolist\controller\TaskController.class
